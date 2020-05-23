@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetOrderDetailsRequest xmlns="http://taeproiect.com/orders"
+xsi:schemaLocation="http://taeproiect.com/orders orderDetails.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>123</id>
+</GetOrderDetailsRequest>
